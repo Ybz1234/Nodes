@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\Nodes\Nodes\bin\Debug\Nodes.exe.config
+C:\Users\jonat\source\repos\Nodes\Nodes\bin\Debug\Nodes.exe
+C:\Users\jonat\source\repos\Nodes\Nodes\bin\Debug\Nodes.pdb
+C:\Users\jonat\source\repos\Nodes\Nodes\obj\Debug\Nodes.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Nodes\Nodes\obj\Debug\Nodes.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Nodes\Nodes\obj\Debug\Nodes.exe
+C:\Users\jonat\source\repos\Nodes\Nodes\obj\Debug\Nodes.pdb
